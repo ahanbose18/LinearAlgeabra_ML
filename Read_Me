@@ -1,3 +1,0 @@
-Linear Algebra Project 
-Model 1 :- Using simple projection matrices to find Ax=b when b is not in the c(A),finding line of best fit without using any machine learing model and verifying with scikitlearn
-Model 2:- Collaborative Filtering using Singular Value Decomposition
